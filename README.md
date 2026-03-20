@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;"Olá, eu sou Daniel C. Afonso, desenvolvedor especialista em Sistemas de Gestão, Soluções Fiscais e entusiasta de novas tecnologias."</h1>
+<h1>"Eu sou Daniel C. Afonso, desenvolvedor especialista em Sistemas de Gestão, Soluções Fiscais e entusiasta de novas tecnologias."</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-c-afonso-15b41461/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
